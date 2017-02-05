@@ -1,0 +1,14 @@
+G:\Users\Chris\Dropbox\C# Things\Rebuild Email History Queue\Rebuild Email History Queue\bin\x86\Debug\Rebuild Email History Queue.exe.config
+G:\Users\Chris\Dropbox\C# Things\Rebuild Email History Queue\Rebuild Email History Queue\bin\x86\Debug\Rebuild Email History Queue.exe
+G:\Users\Chris\Dropbox\C# Things\Rebuild Email History Queue\Rebuild Email History Queue\bin\x86\Debug\Rebuild Email History Queue.pdb
+G:\Users\Chris\Dropbox\C# Things\Rebuild Email History Queue\Rebuild Email History Queue\obj\x86\Debug\MainWindow.g.cs
+G:\Users\Chris\Dropbox\C# Things\Rebuild Email History Queue\Rebuild Email History Queue\obj\x86\Debug\App.g.cs
+G:\Users\Chris\Dropbox\C# Things\Rebuild Email History Queue\Rebuild Email History Queue\obj\x86\Debug\Rebuild Email History Queue_MarkupCompile.cache
+G:\Users\Chris\Dropbox\C# Things\Rebuild Email History Queue\Rebuild Email History Queue\obj\x86\Debug\Rebuild Email History Queue_MarkupCompile.lref
+G:\Users\Chris\Dropbox\C# Things\Rebuild Email History Queue\Rebuild Email History Queue\obj\x86\Debug\MainWindow.baml
+G:\Users\Chris\Dropbox\C# Things\Rebuild Email History Queue\Rebuild Email History Queue\obj\x86\Debug\Rebuild Email History Queue.g.resources
+G:\Users\Chris\Dropbox\C# Things\Rebuild Email History Queue\Rebuild Email History Queue\obj\x86\Debug\Rebuild_Email_History_Queue.Properties.Resources.resources
+G:\Users\Chris\Dropbox\C# Things\Rebuild Email History Queue\Rebuild Email History Queue\obj\x86\Debug\Rebuild Email History Queue.csproj.GenerateResource.Cache
+G:\Users\Chris\Dropbox\C# Things\Rebuild Email History Queue\Rebuild Email History Queue\obj\x86\Debug\Rebuild Email History Queue.exe
+G:\Users\Chris\Dropbox\C# Things\Rebuild Email History Queue\Rebuild Email History Queue\obj\x86\Debug\Rebuild Email History Queue.pdb
+G:\Users\Chris\Dropbox\C# Things\Rebuild Email History Queue\Rebuild Email History Queue\obj\x86\Debug\Rebuild Email History Queue.csprojResolveAssemblyReference.cache

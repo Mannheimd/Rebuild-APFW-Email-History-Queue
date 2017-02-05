@@ -1,0 +1,18 @@
+﻿<Window x:Class="Rebuild_Email_History_Queue.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Rebuild_Email_History_Queue"
+        mc:Ignorable="d"
+        Title="Act! for Web Email History Queue Rebuilder" Height="220" Width="450" MinWidth="450" MinHeight="220">
+    <Grid>
+
+        <Button x:Name="buttonRebuild" Content="Rebuild" HorizontalAlignment="Right" Margin="0,0,10,10" VerticalAlignment="Bottom" Width="75" Grid.Column="1" Click="buttonRebuild_Click"/>
+        <TextBlock x:Name="textBlockIntroText" HorizontalAlignment="Left" Height="84" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="434"><Run Text="This tool will stop "/><Run Text="APFWOutlookSrvc, rename the HistoryQueue folder, create a new HistoryQueue folder and copy any pending emails and their meta"/><Run Text="data into this new folder for processing. APFWOutlookSrvc will then be restarted."/><LineBreak/><Run/><LineBreak/><Run Text="Note: This is built and tested for Act! Premium for Web v18.1"/></TextBlock>
+        <CheckBox x:Name="checkBoxSeparate4mb" Content="Don't include emails that are over 4mb"  HorizontalAlignment="Right" Margin="0,0,90,12" VerticalAlignment="Bottom" IsChecked="True"/>
+        <TextBox x:Name="textBoxFolderPath" Margin="10,125,10,0" TextWrapping="Wrap" Height="23" VerticalAlignment="Top"/>
+        <Label x:Name="labelFolderPath" Content="HistoryQueue Folder:" HorizontalAlignment="Left" Margin="10,99,0,0" VerticalAlignment="Top" Width="434"/>
+
+    </Grid>
+</Window>
